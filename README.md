@@ -22,8 +22,8 @@ Gunakan frontend berikut untuk aplikasi kasir:
 4. JSON Server akan berjalan di http://localhost:3000/.
 
 ## Endpoint API
-Produk: http://localhost:3000/products
-Kategori: http://localhost:3000/categories
-Keranjang: http://localhost:3000/keranjangs
-Pesanan: http://localhost:3000/pesanans
-Pastikan frontend aplikasi kasir sudah berjalan dan menggunakan backend ini dengan benar.
+- Produk: http://localhost:3000/products 
+- Kategori: http://localhost:3000/categories
+- Keranjang: http://localhost:3000/keranjangs
+- Pesanan: http://localhost:3000/pesanans
+- Pastikan frontend aplikasi kasir sudah berjalan dan menggunakan backend ini dengan benar.
