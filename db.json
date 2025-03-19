@@ -183,7 +183,25 @@
       }
     }
   ],
-  "keranjangs": [],
+  "keranjangs": [
+    {
+      "id": "4e31",
+      "product": {
+        "id": "2",
+        "kode": "K-02",
+        "nama": "Nasi Goreng Telur",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "nasi-goreng-telor.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "jumlah": 2,
+      "total_harga": 28000
+    }
+  ],
   "pesanans": [
     {
       "id": "0afc",
